@@ -1,0 +1,2 @@
+select mahasiswa
+from kamous
